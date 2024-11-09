@@ -26,7 +26,7 @@ halaman umpan balik untuk menerima masukan dari pengguna, serta navigasi yang me
 
 ## THIS ME
 Hallo,
-I'm Berly Marcellino Suprapto
-My hobby is : watching anime and volly
-i'm learn : informatics
-how reach me : berlymarcellino25@gmail.com
+- I'm Berly Marcellino Suprapto
+- My hobby is : watching anime and volly
+- i'm learn : informatics
+- how reach me : berlymarcellino25@gmail.com
