@@ -24,7 +24,7 @@ halaman umpan balik untuk menerima masukan dari pengguna, serta navigasi yang me
 1. Clone atau download repository ini.
 2. Buka file `index.html` di browser untuk melihat halaman utama website.
 
-#THIS ME
+## THIS ME
 Hallo,
 I'm Berly Marcellino Suprapto
 My hobby is : watching anime and volly
